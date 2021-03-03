@@ -13,6 +13,7 @@ if(!$conn)
 else
 {
   echo "CONNECTED";
+  echo "Done";
 }
 
 if(isset($_POST["submit"])){
